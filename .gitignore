@@ -26,3 +26,7 @@ yarn-error.log*
 .vscode/
 *.sublime-project
 *.sublime-workspace
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
